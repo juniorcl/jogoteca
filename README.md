@@ -1,0 +1,2 @@
+# jogoteca
+Flask study project
