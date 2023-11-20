@@ -1,2 +1,3 @@
-# jogoteca
+# Jogoteca
+
 Flask study project
