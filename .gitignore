@@ -161,3 +161,7 @@ cython_debug/
 
 # Ignore MySQL folder
 db/mysqldb
+
+# Image files
+*.jpg
+*.jpeg
